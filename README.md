@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Mazen 🇵🇸</h1>
 <h3 align="center">A passionate frontend development</h3>
 
-<-- 👨‍💻 All of my projects are available at [https://github.com/ahmad-mazen-10](https://github.com/ahmad-mazen-10)!-->
-
 - 📫 How to reach me **ahmadmazen060@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
