@@ -1,24 +1,27 @@
 <h1 align="center">
-Hello, I'm Ahmad Mazen!
+Hello, I'm Ahmad Mazen! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
 <br/>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+frontend+developer;Always+learning+new+things;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Frontend+developer;Always+learning+new+things;&center=true&width=380&height=45"></a>
 </p>
 
 ```
-ahmadmazen060@github
+<a herf='#'> ahmadmazen060@.com </a>
 -------------------------
 💻 I am a self taught Frontend Developer .
-
+🔭 I have a strong interest in WEB Development 
+🌱 Learning about DSA , OS , Network
+🌟 Main languages: Python, JavaScript , C#
+🚩 Interested in Full Stack WEB Application development
 ```
 
 <hr>
 <h2>
 <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
 
-[![trophy](<![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmad-mazen-10&theme=default)>)]<!--(https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmednageebmahmoud&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmednageebmahmoud&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmednageebmahmoud&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmednageebmahmoud&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmednageebmahmoud&theme=monokai&utcOffset=8) -->
+[![trophy](<![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmad-mazen-10&theme=default)>)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-mazen-10&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmad-mazen-10&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmad-mazen-10&theme=monokai)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmad-mazen-10&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmednageebmahmoud&theme=monokai&utcOffset=8) 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2>
 
