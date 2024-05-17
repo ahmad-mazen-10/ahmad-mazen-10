@@ -41,10 +41,10 @@ Hello, I'm Ahmad Mazen!
     src="https://img.shields.io/badge/React.JS-2c292d.svg?style=for-the-badge&logo=React.JS&logoColor=ffffff"></a>
     <a href="#"><img alt="Node.JS" 
     src="https://img.shields.io/badge/Node.JS-2c292d.svg?style=for-the-badge&logo=Node.JS&logoColor=ffffff"></a>
-   <a href="#"><img alt="Bootstrap" 
-    src="https://img.shields.io/badge/Bootstrap-2c292d.svg?style=for-the-badge&logo=Bootstrap&logoColor=ffffff"></a>
     <a href="#"><img alt="React Native"
      src="https://img.shields.io/badge/React_Native-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
+   <a href="#"><img alt="Bootstrap" 
+    src="https://img.shields.io/badge/Bootstrap-2c292d.svg?style=for-the-badge&logo=Bootstrap&logoColor=ffffff"></a>
     <a href="#"><img alt="Tailwind" 
     src="https://img.shields.io/badge/Tailwind-2c292d?style=for-the-badge&logo=Tailwind&logoColor=ffffff"></a>
 
@@ -55,8 +55,8 @@ Hello, I'm Ahmad Mazen!
 <p>
     <a href="#"><img alt="GitHub Pages" 
     src="https://img.shields.io/badge/GitHub%20Pages-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"></a>
-    <a href="#"><img alt="Heroku" 
-    src="https://img.shields.io/badge/Heroku-2c292d.svg?style=for-the-badge&logo=heroku&logoColor=ffffff"></a>
+    <a href="#"><img alt="Vercel" 
+    src="https://img.shields.io/badge/Vercel-2c292d.svg?style=for-the-badge&logo=vercel&logoColor=ffffff"></a>
    <a href="#"><img alt="Firebase" 
     src ="https://img.shields.io/badge/Firebase-2c292d.svg?style=for-the-badge&logo=firebase&logoColor=ffffff"></a>
 </p>
@@ -69,6 +69,8 @@ Hello, I'm Ahmad Mazen!
      <a href="#"><img alt="Visual Studio Code"
      src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"> 
       </a>
+    <a href="#"><img alt="Figma" 
+    src="https://img.shields.io/badge/Figma-2c292d.svg?style=for-the-badge&logo=figma&logoColor=ffffff"></a>
     <a href="#"><img alt="Adobe" 
     src="https://img.shields.io/badge/Adobe-2c292d.svg?style=for-the-badge&logo=adobe&logoColor=ffffff"></a>
 </p>
@@ -80,7 +82,7 @@ Hello, I'm Ahmad Mazen!
 <p>
   <a href="https://www.linkedin.com/in/ahmed-mazen-905731240/">
        <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
- <a href="mailto:ahmadmazen060@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello">
+ <a href="mailto:ahmadmazen060@gmail.com">
    <img  src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
 
 </p>
@@ -92,15 +94,15 @@ Hello, I'm Ahmad Mazen!
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
    <img src="https://i.giphy.com/media/kH6CqYiquZawmU1HI6/200.webp" width="100">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
+
 </p>
 <br>
 <h6 align="left" >
    I <span style="color:red">❤</span> Open Source. 
    <br>
 </h6>
-<h6 align="center" >
+<h2 align="center" >
    <span style="color:yellow">⭐</span> Thanks for reading my readme file
    <span style="color:yellow">🤝</span> 
    <br>
-</h6>
+</h2>
